@@ -68,7 +68,7 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="298dp"
-                android:layout_height="69dp"
+                android:layout_height="50dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="48dp"
                 android:background="@drawable/orange_background"

@@ -3,14 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/application/SM_app/app/src/main/res/drawable/orange_background.xml" value="0.2385" />
-        <entry key="..\:/application/SM_app/app/src/main/res/layout/activity_home_final.xml" value="0.2" />
-        <entry key="..\:/application/SM_app/app/src/main/res/layout/activity_home_page.xml" value="0.2064814814814815" />
-        <entry key="..\:/application/SM_app/app/src/main/res/layout/activity_login.xml" value="0.18888888888888888" />
-        <entry key="..\:/application/SM_app/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/application/SM_app/app/src/main/res/layout/activity_signup.xml" value="0.125" />
-        <entry key="..\:/application/SM_app/app/src/main/res/layout/signup_activity.xml" value="0.23229166666666667" />
-        <entry key="..\:/application/SM_app/app/src/main/res/layout/tryaf.xml" value="0.20555555555555555" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/drawable/color_strt_end.xml" value="0.2375" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.127" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/activity_home_page.xml" value="0.23229166666666667" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/fragment_game.xml" value="0.23229166666666667" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/fragment_home.xml" value="0.23229166666666667" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/fragment_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/fragment_sign_in.xml" value="0.23229166666666667" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/fragment_sign_up.xml" value="0.23229166666666667" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/item_recycleview.xml" value="0.2" />
+        <entry key="..\:/tryANdroid/31may_sm_app/SM_app/SM_app/app/src/main/res/layout/log_sin.xml" value="0.23229166666666667" />
       </map>
     </option>
   </component>
